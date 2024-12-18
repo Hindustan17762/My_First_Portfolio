@@ -17,7 +17,16 @@
     padding: 20px;
     text-align: center;
     border-bottom: 1px solid #ddd;
+    
   }
+
+  header .logo {
+    font-size: 36px;     
+    color: #F80002;     
+    margin-right: 15px;  
+    display: inline-block;
+    vertical-align: middle; 
+}
   
 
   main {
